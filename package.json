@@ -1,0 +1,38 @@
+{
+  "name": "mytinerary-acha",
+  "version": "1.0.0",
+  "description": "Proyecto Mern",
+  "main": "index.js",
+  "scripts": {
+    "netlify":"cd frontend && npm install && npm run build",
+    "start": "node index.js",
+    "heroku-postbuild": "cd frontend && npm install && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maca-Acha/mytinerary-acha.git"
+  },
+  "keywords": [
+    "itinerary",
+    "react",
+    "node",
+    "mongo"
+  ],
+  "author": "Macarena Acha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maca-Acha/mytinerary-acha/issues"
+  },
+  "homepage": "https://github.com/Maca-Acha/mytinerary-acha#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "joi": "^17.5.0",
+    "mongoose": "^6.0.13",
+    "passport": "^0.5.0",
+    "passport-jwt": "^4.0.0",
+    "jsonwebtoken": "^8.5.1"
+  }
+}

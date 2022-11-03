@@ -1,0 +1,68 @@
+{
+    "name": "Bethany Taylor",
+    "src": "https://images.pexels.com/photos/1858175/pexels-photo-1858175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "title": "Highlights & Hidden Gems of Rome",
+    "price": 3,
+    "duration": 6,
+    "like": 0,
+    "hashtags": [
+        "Fori Imperiali",
+        "Piazza Navona",
+        "Colosseum",
+        "gems of Rome"
+    ],  
+},
+{
+    "name": "Connor Davis",
+    "src": "https://images.pexels.com/photos/2766392/pexels-photo-2766392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "title": "Vatican Tour with Sistine Chapel Early Entry",
+    "price": 5,
+    "duration": 3 hours 45 minutes,
+    "like": 0,
+    "hashtags": [
+        "St. Peter's Basilica",
+        "Sistine Chapel",
+        "Michelangelo",
+        "Bernini"
+    ],  
+},
+-----------------Activities-------------------
+Vatican Tour
+{
+    "title": "Sistine Chapel", 
+    "image": "https://assets.buendiatours.com/s3fs-public/styles/highlight_large/public/2020-03/roma-actividad-visita-guiada-vaticano-sixtina-pedro-creacion.jpg?VersionId=opXC8QgSa9k7JNX9n3qKqtjp5YpZjUYE&itok=q4YgOUC1",
+    "description": "With this early morning entry to the Sistine Chapel, you will enter the venue 45 minutes before its official opening time and take the time to admire Michelangelo's renowned fresco.",  
+}
+{
+    "title": "explore the Vatican Museums", 
+    "image": "https://www.wantedinrome.com/i/preview/storage/uploads/2018/09/Musei_vaticani_di_Notte.jpg",
+    "description": "Travelling with a small group, you will be able to explore the Vatican Museums in a three-hour guided tour. Heading straight inside without waiting in the queue, you'll have time to explore the sculptures and artwork carefully preserved in the galleries.",  
+}
+{
+    "title": "visit to St. Peter's Basilica", 
+    "image": "https://assets.buendiatours.com/s3fs-public/styles/highlight_large/public/2020-03/roma-actividad-visita-guiada-vaticano-sixtina-pedro-san-pedro.jpg?VersionId=mAC0q3kSkTjo07JpnTXyrzKRObHfdZT1&itok=mMqr7D-9",
+    "description": "The experience will continue with a visit to St. Peter's Basilica, where you will get to know about the history of the largest church in the world. For your convenience, this tour will let you enter the basilica through a special corridor inside Sistine Chapel. After a one-hour tour of Michelangelo's and Bernini's masterpieces, you'll have time to explore the place at your own pace.",  
+}
+
+Highlights & Hidden Gems of Rome
+{
+    "title": "Piazza Navona", 
+    "image": "https://image.arrivalguides.com/x/14/fad1a8477c3d1e4587916c675fd194ea.jpg",
+    "description": "During this day trip you’ll discover some of the highlights and hidden gems of Rome. Your local guide will meet you at the Four River Fountain in Piazza Navona and take you on a walking tour through the city.",  
+}
+{
+    "title": "Rome’s oldest pizzeria", 
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/11/7a/de/ae/interno-antica-pizzeria.jpg",
+    "description": "Along the way you’ll stop for a slice or two at Rome’s oldest pizzeria",  
+}
+{
+    "title": "the Roman ruins", 
+    "image": "https://www.fodors.com/wp-content/uploads/2019/07/01_BestAncientSitesInRome__RomanForum_shutterstock_351471179.jpg",
+    "description": "Browse the shelves at a local book shop and explore the Roman ruins.",  
+}
+{
+    "title": "The Colosseum", 
+    "image": "https://m.media-amazon.com/images/I/713KyNqb+pL._AC_SX425_.jpg",
+    "description": "You’ll end the tour with terrace views of Fori Imperiali and the Colosseum.",  
+}
+
